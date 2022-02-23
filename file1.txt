@@ -1,1 +1,1 @@
-hello
+hello_after_reset
